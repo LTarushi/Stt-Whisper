@@ -2,6 +2,8 @@
 
 This project allows you to convert an MP3 file to text using OpenAI's Whisper model on your local machine.
 
+## Demo Video
+![Watch the Demo](https://github.com/LTarushi/Stt-Whisper/edit/main/demo.mp4)
 ---
 
 ## **Installation Guide**
